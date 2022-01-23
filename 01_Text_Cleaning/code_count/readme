@@ -1,0 +1,2 @@
+This folder contains code for cleaning wsb data from Kaggle
+Following cleaning, we count the number of stocks in each body and then merge with CRSP
